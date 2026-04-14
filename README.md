@@ -61,7 +61,7 @@ cd Doctor-Appointment-Booking-System
 
 cd backend  
 npm install  
-npm run dev  
+npm run server  
 
 ---
 
